@@ -57,7 +57,7 @@ Welcome to the fascinating world of Linux command-line interfaces! As a beginner
     
     **ls -a** or **ls -la** used to list all files and directories including hidden files.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689448814392/67ed15c3-8621-4619-955c-e48665bcc873.png align="center")
+    ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1689448814392/67ed15c3-8621-4619-955c-e48665bcc873.png align="center")
     
 3. Create a nested directory A/B/C/D/E
     
@@ -69,4 +69,4 @@ Welcome to the fascinating world of Linux command-line interfaces! As a beginner
     
     To display nested directories in a tree like structure use **"tree"** command, but first install tree command **"sudo apt-get install tree"**.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689449402072/2e3b5aa8-b5b7-4790-a210-7ea0c001ecda.png align="center")
+    ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1689449402072/2e3b5aa8-b5b7-4790-a210-7ea0c001ecda.png align="center")
